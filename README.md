@@ -2,6 +2,7 @@
 Development of a WebGL application developed using OSGJS, 
 
 Creatation a custom 3D scene that demonstrates the following aspects of OSGJS:
+
  Scene graph design 
     o Group nodes
     o Shape nodes
