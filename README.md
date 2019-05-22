@@ -17,7 +17,7 @@ Creatation a custom 3D scene that demonstrates the following aspects of OSGJS:
     -> Ambient Lighting
 
  Texture mapping
-  Addition of teexture to objects such as buildings and airplane. 
+  Addition of texture to objects such as buildings and airplane. 
 
  Animation
  Interaction 
